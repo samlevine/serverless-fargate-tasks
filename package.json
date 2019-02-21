@@ -10,7 +10,7 @@
   "name": "serverless-fargate-tasks",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svdgraaf/serverless-fargate-tasks.git"
+    "url": "git+https://github.com/samlevine/serverless-fargate-tasks.git#forkdev"
   },
   "scripts": {
   },
